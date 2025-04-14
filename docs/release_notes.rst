@@ -3,6 +3,15 @@ Release Notes
 
 .. towncrier release notes start
 
+eth-typing v5.2.1 (2025-04-14)
+------------------------------
+
+Bugfixes
+~~~~~~~~
+
+- Set name as optional for ``ABIComponent`` type. (`#95 <https://github.com/ethereum/eth-typing/issues/95>`__)
+
+
 eth-typing v5.2.0 (2025-02-20)
 ------------------------------
 
